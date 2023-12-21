@@ -1,0 +1,7 @@
+Appuyer sur barre espace image dino saute
+
+Si image dino touche cactus
+    Le jeu s'arrete
+
+Sinon
+    le jeu continue
